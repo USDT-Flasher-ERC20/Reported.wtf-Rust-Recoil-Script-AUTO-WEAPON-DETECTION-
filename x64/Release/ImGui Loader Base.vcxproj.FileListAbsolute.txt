@@ -1,0 +1,9 @@
+C:\Users\scien\Desktop\Main Script\Peak Source\x64\Release\Peak.exe
+C:\Users\scien\Desktop\Main Script\reported rust\x64\Release\reported.exe
+C:\Users\scien\Desktop\Main Script\report\x64\Release\reported.exe
+C:\Users\scien\Downloads\report\x64\Release\reported.exe
+C:\Users\scien\Downloads\report - Copy\x64\Release\reported.exe
+C:\Users\scien\Downloads\Reported Updated\x64\Release\reported.exe
+C:\Users\scien\Downloads\reported v3\x64\Release\reported.exe
+C:\Users\scien\Downloads\reported v3 - Made by YangerOne\x64\Release\reported.exe
+C:\Users\scien\Downloads\reported v3 - Made by YangerOne (1)\x64\Release\reported.exe
